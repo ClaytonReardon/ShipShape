@@ -1,0 +1,12 @@
+[submodule "VMFleetDeploy"]
+	path = VMFleetDeploy
+	url = git@github.com:ClaytonReardon/VMFleetDeploy.git
+[submodule "ShipShape-Website"]
+	path = ShipShape-Website
+	url = git@github.com:ClaytonReardon/ShipShape-Website.git
+[submodule "NetMaze"]
+	path = NetMaze
+	url = git@github.com:ClaytonReardon/NetMaze.git
+[submodule "IoTHub"]
+	path = IoTHub
+	url = git@github.com:ClaytonReardon/IoTHub.git
